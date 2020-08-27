@@ -1,27 +1,31 @@
 # Django-FreeBikia
 
-EcommeFreeBikiarce website built with Django 2.2.3, Python 3.7.3, and AWS
+FreeBikia website built with Django 2.2.3, Python 3.7.3, and AWS
 
-![image](https://drive.google.com/file/d/1iewVhThHAVVRsf0xuNRWM3kGRzDDWfc8/view?usp=sharing)
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.15.36%20AM.jpeg)
 
 ` Slide`
 
-![image](https://drive.google.com/file/d/1sImZi2UAe39vnhYYYdbtlUMOWKEdCXsp/view?usp=sharing)
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.16.56%20AM.jpeg)
+
+`categories page `
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.17.10%20AM.jpeg)
 
 `Shop Page`
-![image](https://drive.google.com/file/d/1ol8W6bLwpGHAI-7qfpkIXZiiD2u91sfQ/view?usp=sharing)
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.18.47%20AM.jpeg)
 
 `Product Detail Page`
-![image](https://drive.google.com/file/d/15RS1-ao_EJ38z7fKUdY3F0Lsfu_2KgtX/view?usp=sharing)
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.19.10%20AM.jpeg)
 
 `add item Page`
-![image](https://drive.google.com/file/d/1CU7quSuygJ9or0PrLFrC-Oxs9xcEcyeg/view?usp=sharing)
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.18.24%20AM.jpeg)
 
 `Get in touch Page`
-![image](https://drive.google.com/file/d/1gqdIVLIfpgXd-zZ0S5Qf76opb20mRLCX/view?usp=sharing)
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.19.49%20AM.jpeg)
 
 `pop up contact `
-![image](https://drive.google.com/file/d/1GQsb0YhQr-0b0cGIbVmt1UugYX8DH2KB/view?usp=sharing)
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.20.24%20AM.jpeg)
+
 
 
 # Installation
