@@ -59,7 +59,7 @@ Password : 12345678
 ```
 # Demo
 
-http://djangoecommerce.pythonanywhere.com
+http://shesheny66.pythonanywhere.com/
 
 # HTML Template
 
