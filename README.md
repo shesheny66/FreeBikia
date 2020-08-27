@@ -8,6 +8,9 @@ FreeBikia website built with Django 2.2.3, Python 3.7.3, and AWS
 
 ![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.16.56%20AM.jpeg)
 
+`categories page `
+![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.17.10%20AM.jpeg)
+
 `Shop Page`
 ![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.18.47%20AM.jpeg)
 
@@ -23,8 +26,7 @@ FreeBikia website built with Django 2.2.3, Python 3.7.3, and AWS
 `pop up contact `
 ![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.20.24%20AM.jpeg)
 
-`categories page `
-![image](https://github.com/shesheny66/FreeBikia/blob/Doc-IMG/WhatsApp%20Image%202020-08-22%20at%203.17.10%20AM.jpeg)
+
 
 # Installation
 
@@ -62,4 +64,5 @@ http://djangoecommerce.pythonanywhere.com
 # HTML Template
 
 https://colorlib.com/etc/fashe/index.html
+
 
